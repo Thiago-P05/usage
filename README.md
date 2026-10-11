@@ -2,6 +2,10 @@
 
 [OpenCode V2](https://opencode.ai/v2/docs/build/plugins) plugin: `/usage` shows remaining subscription quota for saved Codex and Grok OAuth connections without invoking a model.
 
+## Screenshots
+
+![Subscription quota overview](docs/images/usage.png)
+
 ## Install
 
 Requires OpenCode V2 (official plugin API 2.0.26) and Node.js 22+ for dependency installation and tests. This repository is not published to npm.
